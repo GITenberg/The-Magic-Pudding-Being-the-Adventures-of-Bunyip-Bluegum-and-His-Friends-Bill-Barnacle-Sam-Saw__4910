@@ -1,5 +1,8 @@
 _repo: The-Magic-Pudding-Being-the-Adventures-of-Bunyip-Bluegum-and-His-Friends-Bill-Barnacle-Sam-Saw__4910
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lindsay, Norman
@@ -18,6 +21,8 @@ description: "The Magic Pudding: Being The Adventures of Bunyip Bluegum and his 
   \ four \"slices\" instead of chapters. There are many short songs interspersed throughout\
   \ the text, varying from stories told in rhyme to descriptions of a character's\
   \ mood or behaviour, and verses of an ongoing sea song.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4910#The-Magic-Pudding-Being-the-Adventures-of-Bunyip-Bluegum-and-His-Friends-Bill-Barnacle-Sam-Saw_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
