@@ -1,5 +1,5 @@
 _repo: The-Magic-Pudding-Being-the-Adventures-of-Bunyip-Bluegum-and-His-Friends-Bill-Barnacle-Sam-Saw__4910
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,6 +39,7 @@ subjects:
 - !lcsh 'Fantasy'
 - !lcsh 'Australia -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: "The Magic Pudding\r\nBeing the Adventures of Bunyip Bluegum and His Friends\
   \ Bill Barnacle & Sam Sawnoff"
 url: http://www.gutenberg.org/ebooks/4910
